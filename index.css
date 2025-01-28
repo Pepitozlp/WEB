@@ -1,0 +1,51 @@
+
+    h1 {
+
+        font-family: "Exo", serif;
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
+        text-align: justify;
+    }
+
+    body {
+        background-color: blanchedalmond;
+    }
+    .photo_profil {
+        width : 200 px;
+        margin-bottom: auto;
+        float: left;
+        filter: sepia();
+    }
+
+    p {
+        text-align: center;
+
+    }
+    .author {
+        font-weight: bold;
+        margin-top: 100px;
+        text-align: start;
+        
+        }
+
+    h2 {
+        font-family: "Exo", serif;
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
+    }
+
+    .planete {
+        width: 30%;
+        height: 50%;
+        position: relative;
+        filter: hue-rotate(90deg);
+    }
+
+    .orni {
+        width: 10%;
+        height: 10%;
+        right: 10%;
+        filter: grayscale();
+    }

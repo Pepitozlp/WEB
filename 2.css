@@ -1,0 +1,35 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+
+font-family: "Exo", serif;
+font-optical-sizing: auto;
+font-weight: 200;
+font-style: normal;
+text-align: justify;
+}
+
+p {
+    text-align: center;
+
+}
+
+
+h2 {
+    font-family: "Exo", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.orni1{
+    width: 250px;
+    height: 250px;
+}
+
+.orni2{
+    width: 250px;
+    height: 250px;
+}
